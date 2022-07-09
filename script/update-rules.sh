@@ -12,22 +12,17 @@ echo '新建TMP文件夹完成'
 
 # Start Download Filter File
 echo '开始下载规则...'
-easylist=(
-#  "https://raw.githubusercontent.com/banbendalao/ADgk/master/ADgk.txt" #adgk规则 @坂本大佬
-#  "https://raw.githubusercontent.com/banbendalao/ADgk/master/kill-baidu-ad.txt" #百度超级净化 @坂本大佬
+easylist=( 
   "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/LegitimateURLShortener.txt" #一个URL过滤器
   "https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/mv.txt" #乘风视频广告规则
   "https://raw.githubusercontent.com/damengzhu/banad/main/jiekouAD.txt" #大萌主针的盗版网站的规则
   "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/ClearURLs%20for%20uBo/clear_urls_uboified.txt" #Clean Url 扩展的规则
   "https://raw.githubusercontent.com/hacamer/Adblist/master/adp-pc.txt" #杏梢的全量规则
   "https://raw.githubusercontent.com/Noyllopa/NoAppDownload/master/NoAppDownload.txt" #去APP下载按钮
-  "https://easylist.to/easylist/easyprivacy.txt"
-#  "https://raw.githubusercontent.com/uniartisan/adblock_list/master/adblock.txt"
-#  "https://filters.adtidy.org/extension/ublock/filters/2.txt"
+  "https://easylist.to/easylist/easyprivacy.txt
 )
 
 easylist_plus=(
-#"https://raw.githubusercontent.com/xinggsf/Adblock-Plus-Rule/master/rule.txt" #乘风规则
 "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/annoyances.txt" #ubo烦人过滤器
 "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/badware.txt" #
 "https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt" #ubo基础过滤器
@@ -71,9 +66,7 @@ dns=(
   "https://easylist.to/easylist/fanboy-annoyance.txt"
   "https://filters.adtidy.org/windows/filters/3.txt"
   "https://filters.adtidy.org/windows/filters/11.txt"
-  "https://filters.adtidy.org/windows/filters/2.txt" #adg基础过滤器
-#  "https://raw.githubusercontent.com/AdguardTeam/AdGuardSDNSFilter/gh-pages/Filters/filter.txt"
-#  "https://abp.oisd.nl/basic/"
+  "https://filters.adtidy.org/windows/filters/2.txt"
   "https://easylist-downloads.adblockplus.org/easylistchina+easylist.txt"
   "https://easylist-downloads.adblockplus.org/easyprivacy.txt"
   "https://easylist.to/easylist/easyprivacy.txt"
@@ -88,17 +81,17 @@ dns=(
 
 hosts=(
   "https://adaway.org/hosts.txt"
-#  "https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hosts_light.txt"
+  "https://raw.githubusercontent.com/ookangzheng/dbl-oisd-nl/master/hosts_light.txt"
   "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/hosts"
-#  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/AdguardDNS.txt"
-#  "https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts"
+  "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/AdguardDNS.txt"
+  "https://raw.githubusercontent.com/Goooler/1024_hosts/master/hosts"
   "https://raw.githubusercontent.com/DandelionSprout/adfilt/master/Alternate%20versions%20Anti-Malware%20List/AntiMalwareHosts.txt"
   "https://raw.githubusercontent.com/StevenBlack/hosts/master/data/someonewhocares.org/hosts"
   "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/dmz.txt"
   "https://raw.githubusercontent.com/jdlingyu/ad-wars/master/sha_ad_hosts"
-#"https://raw.githubusercontent.com/StevenBlack/hosts/master/alternates/social/hosts"
   "https://raw.githubusercontent.com/hacamer/Adblist/master/filter/hosts/rules-hosts.txt"
-#  "https://blocklistproject.github.io/Lists/basic.txt"
+  "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Xiaomi-Extension.txt"
+  "https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Extension/GoodbyeAds-Samsung-AdBlock.txt"
 )
 
 ad_domains=(
