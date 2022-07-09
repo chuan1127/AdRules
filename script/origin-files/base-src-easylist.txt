@@ -1,14 +1,8 @@
-! Title: AdRules Ad Domains List
-! Checksum: CIn3rg4aT+lUidM+BLfHfQ
-! Homepage: https://github.com/Cats-Team/AdRules
-! Powerd by CatsTeam
-! Expires: 8 Hours
-! Version: 2022-07-10 00:00:17(GMT+8) 
-! Total count: 651
 2052.flash2-http.qq.com
 3gsoftfile.tc.qq.com
 3gsoftfile.tcdn.qq.com
 a.ac.qq.com
+a.ssl.msdk.qq.com
 aaid.umeng.com
 abtest-ch.snssdk.com
 ac.o2.qq.com
@@ -18,10 +12,12 @@ access1.tpns.tencent.com
 act.qq.com
 activeqq.3g.qq.com
 ad.qq.com
+ad.qun.qq.com
 ad.toutiao.com
 ad.weixin.qq.com
 adfilter.imtt.qq.com
 adping.qq.com
+adpm.app.qq.com
 adrdir.qq.com
 ads-union.jd.com
 ads.privacy.qq.com
@@ -47,6 +43,7 @@ adss.video.qq.com
 adstextview.qq.com
 adsview.qq.com
 adsview2.qq.com
+adv.app.qq.com
 adver.qq.com
 aegis.qq.com
 aeventlog.beacon.qq.com
@@ -58,6 +55,7 @@ ahf.bugly.qq.com
 aid.video.qq.com
 ali-stats.jpush.cn
 analy.qq.com
+analytics.map.qq.com
 analytics.samsungknox.com
 analytics.snssdk.com
 android.bugly.qq.com
@@ -66,6 +64,8 @@ api-access.pangolin-sdk-toutiao-b.com
 api-access.pangolin-sdk-toutiao.com
 api.bugly.qq.com
 api.e.kuaishou.com
+api.psy-1.com/cosleep/newborn/ad
+api.psy-1.com/cosleep/newborn/vips/picks
 api.youtu.qq.com
 api2.e.kuaishou.com
 apm.douyucdn.cn
@@ -153,6 +153,7 @@ detect.mb.qq.com
 device-metrics-us-2.amazon.com
 device-metrics-us.amazon.com
 dgstatic.jd.com
+di.ssl.msdk.qq.com
 diagnostics.support.microsoft.com
 dig.bdurl.net
 dig.zjurl.cn
@@ -197,6 +198,7 @@ gdt.qq.com
 gecko-hl.snssdk.com
 gecko-lq.snssdk.com
 gia.jd.com
+gift.douyucdn.cn
 gjapplog.uc.cn
 gjapplog.ucweb.com
 gouwu.qq.com
@@ -209,6 +211,7 @@ gzdata.com.cn
 haohuo.snssdk.com
 hd2.3g.qq.com
 hm.l.qq.com
+home.mi.com/cgi-op/api/v1/recommendation/banner
 httpdns.kg.qq.com
 httpring.qq.com
 huatuo.qq.com
@@ -219,12 +222,15 @@ i.gdt.qq.com
 i.snssdk.com
 i1.services.social.microsoft.com
 iask.qq.com
+ib.snssdk.com
+ib.snssdk.com.edgekey.net
 ic.snssdk.com
 if.mingxing.qq.com
 ii.gdt.qq.com
 im-x.jd.com
 imc.l.qq.com
 img-x.jd.com
+img.ssl.msdk.qq.com
 img1.sj.qq.com
 imp-toutiao-data.37.com.cn
 in-addr.arpa
@@ -234,6 +240,7 @@ infotrack.gdt.qq.com
 insights.samsung.com
 ios.bugly.qq.com
 ipv4.gdt.qq.com
+is.snssdk.com
 isdspeed.qq.com
 isee.weishi.qq.com
 isub.snssdk.com
@@ -287,6 +294,7 @@ log-api.pangolin-sdk-toutiao.com
 log-hl.snssdk.com
 log.jd.com
 log.jd.com.gslb.qianxun.com
+log.m.sm.cn
 log.snssdk.com
 log.snssdk.com.bytedns.net
 log.tbs.qq.com
@@ -326,16 +334,21 @@ metrics.apple.com
 metrics.data.hicloud.com
 metrics.icloud.com
 metrics.mzstatic.com
+metrics1.data.hicloud.com
 metrics2.data.hicloud.com
 metrics3.data.hicloud.com
 metrics4.data.hicloud.com
 metrics5.data.hicloud.com
 mi.gdt.qq.com
+midas.gtimg.cn
 mig.str.mdt.qq.com
 mini2015.qq.com
 minisite2012.qq.com
 minorshort.weixin.qq.com
 misc.wcd.qq.com
+mmykm1.gdbs.gov.cn/api/open/r/ykmrecommend
+mobwin.app.qq.com
+mon.snssdk.com
 mon11-misc-lf.toutiaoapi.com
 monitor.music.qq.com
 monitor.qq.com
@@ -345,6 +358,7 @@ mqqad.cs0309.html5.qq.com
 mqqad.html5.qq.com
 mqqadr.reader.qq.com
 mqqadr.showreader.qq.com
+msdk.qq.com
 msm.qq.com
 msmetrics-test.ws.sonos.com
 msmetrics.ws.sonos.com
@@ -353,6 +367,7 @@ mssdk-bu.snssdk.com
 mta.qq.com
 mtrace.qq.com
 mtt.eve.mdt.qq.com
+mw.app.qq.com
 n.ssp.qq.com
 nativeapp.toutiao.com
 nc.gdt.qq.com
@@ -508,6 +523,7 @@ spynet2.microsoft.com
 spynetalt.microsoft.com
 sqsh.3g.qq.com
 ssp.qq.com
+st.huliyinzi.com/ads_app_pic/
 stat.gamedl.qq.com
 stat.m.jd.com
 stat.y.qq.com
@@ -583,6 +599,7 @@ updatecenter.qq.com
 upload_data.qq.com
 uploadlog.p2p.qq.com
 us.l.qq.com
+us.l.qq.com/exapp
 user1.game.qq.com
 uty.micocc.com
 uu.qq.com
@@ -629,9 +646,11 @@ weixin.qq.hellocdn.top
 weixin.qq.huigun.top
 win.gdt.qq.com
 wit.qq.com
+wl.jd.com
 wn.x.jd.com
 ws.sj.qq.com
 wspeed.qq.com
+www.baidu.com.sogou.360.cn.qq.com.hunlaife.cn
 www.jd-mail.co.uk
 wxa.wxs.qq.com
 wxs.qq.com
@@ -649,6 +668,8 @@ xj.gdt.qq.com
 xlog.jd.com
 xlog.snssdk.com
 xmaterial.tu.qq.com
+y.gtimg.cn/music/common//upload/kg_ad
+y.qq.com/music/common/upload/t_kg_activity_show
 yeah.qq.com
 yoda.kwd.inkuai.com
 ysdk.qq.com

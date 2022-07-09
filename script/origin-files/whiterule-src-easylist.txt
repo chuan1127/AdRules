@@ -1,31 +1,14 @@
-! Title: AdRules Allowlist
-! Checksum: nmp8pl2bLOzoml3u5ITMmA
-! Homepage: https://github.com/Cats-Team/AdRules
-! Powerd by CatsTeam
-! Expires: 8 Hours
-! Version: 2022-07-10 00:00:17(GMT+8) 
-! Total count: 41
 @@||*.ali*.*^$stealth
 @@||*.youku.com^$stealth
-@@||2345.cn^
-@@||360.cn^
-@@||amos.alicdn.com^
-@@||api.bilibili.com/*^$removeparam
 @@||api.yjllq.com^
 @@||api5-normal-lq.toutiaoapi.com^$app=com.ss.android.article.news
 @@||bkimg.cdn.bcebos.com^
-@@||buy.ele.me^
-@@||cashier.ele.me^
 @@||dash.cloudflare.com^$domain=dash.cloudflare.com,important
 @@||dash.xns.one^
 @@||doc.weixin.qq.com^
-@@||game.weixin.qq.com^
 @@||gw.m.163.com^
-@@||i.snssdk.com/bds^$app=com.sup.android.superb
 @@||imgstat.baidu.com^
 @@||inews.gtimg.com^
-@@||invoice-ua.taobao.com/e-invoice/invoice-apply-online.html?source$stealth
-@@||list-manage.com
 @@||local.adguard.org^
 @@||login.windows.net^$app=com.microsoft.skydrive
 @@||mail.google.com^$document
@@ -39,10 +22,8 @@
 @@||qun.qq.com^
 @@||sug.browser.miui.com^
 @@||tanx.com^$dnstype=CNAM
-@@||taobao.com$image
 @@||vali.cp*.ott.cibntv.net^$domain=m.youku.com,third-party
 @@||w.pandora.xiaomi.com^
 @@||wallpaper.cdn.pandora.xiaomi.com^
-@@||www.msn.cn/spartan/mmx^
 @@||wx.tenpay.com^
 @@||yyfweb.postar.cn^

@@ -1,0 +1,16 @@
+||access*.tpns.tencent.com^
+||access.pangolin-sdk-toutiao-*.com^
+||ads*-normal*.zijieapi.com^
+||ads*-normal-hl.zijieapi.com^
+||api-access.pangolin-sdk-toutiao-*.com^
+||liveweb*.msstatic.com^
+||log*-normal-lq.toutiaoapi.com^
+||log-api.pangolin-sdk-toutiao-*.com^
+||p*-ad-sign.byteimg.com^
+||polaris*-normal-lq.zijieapi.com^
+||s*-fe-scm.pglstatp-toutiao.com^
+||s*a.pstatp.com^
+||sf*-be-pack.pglstatp-toutiao.com^
+||sf*-fe-tos.pglstatp-toutiao.com^
+||transit*.wslog.chinanetcenter.com^
+||v*-be-pack.pglstatp-toutiao.com^
