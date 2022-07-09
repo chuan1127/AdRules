@@ -1,11 +1,11 @@
 # Title: AdRules Hosts List
-# Checksum: nNGX7R2fMJlFST/5G1LcjQ
+# Checksum: xBQlNUSCFtfPvM1fcTbAzg
 # Homepage: https://github.com/Cats-Team/AdRules
 # Powerd by CatsTeam
 # Expires: 8 Hours
 # 
 #
-# Version: 2022-07-10 00:00:17(GMT+8) 
+# Version: 2022-07-10 00:30:26(GMT+8) 
 # Total count: 651
 0.0.0.0 2052.flash2-http.qq.com
 0.0.0.0 3gsoftfile.tc.qq.com

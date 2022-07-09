@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: U105SclZfHYsdrboAW+3/w
+! Checksum: zitEEF38/wuB08OgbWleiQ
 ! Title: AdRules AdBlock List Full 
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by Cats-Team
 ! Expires: 8 Hours
 ! Description: AdRules AdBlock List's Plus, And Add Some Filters
-! Version: 2022-07-10 00:00:17(GMT+8) 
+! Version: 2022-07-10 00:30:25(GMT+8) 
 ! Total count: 111
 @@||*.ali*.*^$stealth
 @@||*.youku.com^$stealth
