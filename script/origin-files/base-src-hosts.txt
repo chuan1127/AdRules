@@ -2459,6 +2459,7 @@
 127.0.0.1 4f2c852aeed4.com
 127.0.0.1 4f2sm1y1ss.com
 127.0.0.1 4f2sm1y1ss.com
+127.0.0.1 4f370501ac.com
 127.0.0.1 4f6b2af479d337cf.com
 127.0.0.1 4fde9983d9.com
 127.0.0.1 4ggame8.com
@@ -3045,6 +3046,7 @@
 127.0.0.1 7029a88f0c.com
 127.0.0.1 7029c575c3ee.com
 127.0.0.1 703531862.vws.vegacdn.vn
+127.0.0.1 7080ys.top
 127.0.0.1 70bhsd.cn
 127.0.0.1 70ee6484605f.com
 127.0.0.1 70fe531675.3eb8f14569.com
@@ -8663,6 +8665,7 @@
 127.0.0.1 adserver.adtechus.com
 127.0.0.1 adserver.adultfriendfinder.com
 127.0.0.1 adserver.advertist.com
+127.0.0.1 adserver.adverty.com
 127.0.0.1 adserver.affiliatemg.com
 127.0.0.1 adserver.airmiles.ca
 127.0.0.1 adserver.aol.fr
@@ -14278,6 +14281,7 @@
 127.0.0.1 assets.alphonso.tv
 127.0.0.1 assets.amung.us
 127.0.0.1 assets.amxrtb.com
+127.0.0.1 assets.anzuinfra.com
 127.0.0.1 assets.appboycdn.com
 127.0.0.1 assets.applovin.com
 127.0.0.1 assets.bilsyndication.com
@@ -19825,6 +19829,7 @@
 127.0.0.1 c30.statcounter.com
 127.0.0.1 c303.pw
 127.0.0.1 c31.statcounter.com
+127.0.0.1 c3113b90b1.com
 127.0.0.1 c32.statcounter.com
 127.0.0.1 c33.statcounter.com
 127.0.0.1 c34.statcounter.com
@@ -20276,6 +20281,7 @@
 127.0.0.1 caprizecaprizerepeatedly.com
 127.0.0.1 caprofitx.adtop.com
 127.0.0.1 caprofitx.com
+127.0.0.1 caps-server.anzu.io
 127.0.0.1 capsfogpeck.com
 127.0.0.1 capsheirspages.com
 127.0.0.1 capsquirrel.com
@@ -31053,6 +31059,7 @@
 127.0.0.1 dynamic-ads.appier.net
 127.0.0.1 dynamic-advertising.de
 127.0.0.1 dynamic-dns.net
+127.0.0.1 dynamic-l1.anzuinfra.com
 127.0.0.1 dynamic.3lift.com
 127.0.0.1 dynamic.criteo.com
 127.0.0.1 dynamic.da1.vip.prod.criteo.com
@@ -32428,6 +32435,7 @@
 127.0.0.1 emprendedorimbatible.com
 127.0.0.1 emptyescort.com
 127.0.0.1 emptyspaceads.com
+127.0.0.1 emqx.anzuinfra.com
 127.0.0.1 emrgods.com
 127.0.0.1 emrlogistics.com
 127.0.0.1 ems.cp12.wasu.tv
@@ -33387,6 +33395,7 @@
 127.0.0.1 events.adjust.com
 127.0.0.1 events.aerserv.com
 127.0.0.1 events.air.tv
+127.0.0.1 events.anzuinfra.com
 127.0.0.1 events.apester.com
 127.0.0.1 events.api.boomtrain.com
 127.0.0.1 events.api.red.wemesh.ca
@@ -38195,6 +38204,7 @@
 127.0.0.1 gnatneatlyembodiment.com
 127.0.0.1 gnaunbiu.rest
 127.0.0.1 gnawinstruct.com
+127.0.0.1 gnbunbiv.rest
 127.0.0.1 gndrglsn.com
 127.0.0.1 gnehataj.xyz
 127.0.0.1 gnezdo.news
@@ -47746,6 +47756,7 @@
 127.0.0.1 l0-secure.videohub.tv
 127.0.0.1 l0.scanscout.com
 127.0.0.1 l0b.ru
+127.0.0.1 l1-1.anzu.io
 127.0.0.1 l1.aaxads.com
 127.0.0.1 l14.xyz
 127.0.0.1 l2.io
@@ -47753,6 +47764,7 @@
 127.0.0.1 l2.sharethis.com
 127.0.0.1 l23kdkghsldrj.tj-cyhg.com
 127.0.0.1 l2ksixujfcg5.com
+127.0.0.1 l3-2.anzuinfra.com
 127.0.0.1 l3.aaxads.com
 127.0.0.1 l3.evidon.com
 127.0.0.1 l3g3media.com
@@ -49767,6 +49779,7 @@
 127.0.0.1 logi6.xiti.com
 127.0.0.1 logi7.xiti.com
 127.0.0.1 logi8.xiti.com
+127.0.0.1 logic.anzuinfra.com
 127.0.0.1 logicalmodelvisible.com
 127.0.0.1 logicalmodelvisible.com
 127.0.0.1 logicalrecord.com
@@ -64336,6 +64349,7 @@
 127.0.0.1 qssa.co.uk
 127.0.0.1 qsstats.com
 127.0.0.1 qstukqmsddqgs.com
+127.0.0.1 qsxfsp.shop
 127.0.0.1 qtbb6.com
 127.0.0.1 qtd95fj.online
 127.0.0.1 qthynj2.com
@@ -66793,6 +66807,7 @@
 127.0.0.1 roewnand.biz
 127.0.0.1 roeye.com
 127.0.0.1 rof77skt5zo0.com
+127.0.0.1 rofvjko.cn
 127.0.0.1 rogerschultz.com
 127.0.0.1 rogew.com
 127.0.0.1 roguefairfaxeminent.com
@@ -80164,6 +80179,7 @@
 127.0.0.1 trk.in25app.com
 127.0.0.1 trk.indoleads.com
 127.0.0.1 trk.kissmetrics.com
+127.0.0.1 trk.klclick1.com
 127.0.0.1 trk.nfl-online-streams.live
 127.0.0.1 trk.obix.pro
 127.0.0.1 trk.olnl.net
@@ -81093,6 +81109,7 @@
 127.0.0.1 uds24.com
 127.0.0.1 udsagemylyqkrew.com
 127.0.0.1 udwjjxnexs.xyz
+127.0.0.1 ue.applovin.com
 127.0.0.1 ue.atemda.com
 127.0.0.1 ue.flipboard.com
 127.0.0.1 ue.ueadlian.com
@@ -90972,6 +90989,7 @@
 127.0.0.1 yushuha.com
 127.0.0.1 yusnw.cc
 127.0.0.1 yuubuslvsqhopkk.com
+127.0.0.1 yuvvddt.cn
 127.0.0.1 yuxiangrc.com
 127.0.0.1 yuxiny.com
 127.0.0.1 yuyinqs.com
