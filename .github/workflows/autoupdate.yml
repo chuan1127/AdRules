@@ -53,9 +53,9 @@ jobs:
           #git fetch --unshallow
           git pull -f
       - name: Update Rules
-        continue-on-error: true
+        continue-on-error: false
         run: | 
-          sudo update-alternatives --set php /usr/bin/php7.4 &          
+          sudo update-alternatives --set php /usr/bin/php7.4     
           bash ./script/update-rules.sh
           #python ./script/rule.py
       - name: Update other rules
