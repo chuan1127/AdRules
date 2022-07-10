@@ -1,9 +1,9 @@
 [Adblock Plus 2.0]
-! Checksum: 0PYguC5Y2NWV/TGnd73P9g
+! Checksum: 4bM60lYD8mU3eSJ3KH2P+w
 ! Title: AdRules AdGuard Filter List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
 ! Description: Merge Form AdGuard Main Filters
-! Version: 2022-07-10 12:03:09(GMT+8) 
+! Version: 2022-07-10 12:06:02(GMT+8) 
 ! Total count: 0

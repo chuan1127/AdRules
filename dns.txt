@@ -1,11 +1,11 @@
 [Adblock Plus 2.0]
-! Checksum: K3fxuDQtYR9AYmptnYPBPw
+! Checksum: 4r/AYX0w54hogKwxGn7tyQ
 ! Title: AdRules DNS List
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by Cats-Team
 ! Expires: 8 Hours
 ! Description: The DNS Filters
-! Version: 2022-07-10 12:03:09(GMT+8) 
+! Version: 2022-07-10 12:06:02(GMT+8) 
 ! Total count: 553
 @@||amos.alicdn.com^
 @@||api.yjllq.com^
