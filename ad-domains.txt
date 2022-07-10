@@ -1,10 +1,10 @@
 ! Title: AdRules Ad Domains List
-! Checksum: xcr404s+DvYpCQkZy33MRg
+! Checksum: b0MnY/rM7iVcF1/S5cwrJw
 ! Homepage: https://github.com/Cats-Team/AdRules
 ! Powerd by CatsTeam
 ! Expires: 8 Hours
-! Version: 2022-07-10 10:27:12(GMT+8) 
-! Total count: 648
+! Version: 2022-07-10 12:03:09(GMT+8) 
+! Total count: 651
 2052.flash2-http.qq.com
 3gsoftfile.tc.qq.com
 3gsoftfile.tcdn.qq.com
@@ -263,6 +263,7 @@ jsqmt.qq.c
 jsqmt.qq.com
 jzt.jd.com
 k.ssp.qq.com
+kepler.jd.com
 knicks.jd.com
 kr59779-qq.com
 l.qq.com
@@ -333,6 +334,7 @@ mi.gdt.qq.com
 mig.str.mdt.qq.com
 mini2015.qq.com
 minisite2012.qq.com
+minorshort.weixin.qq.com
 misc.wcd.qq.com
 mon11-misc-lf.toutiaoapi.com
 monitor.music.qq.com
@@ -520,6 +522,7 @@ supportmetrics.apple.com
 sv.mnyh.fun
 swimg2.tsderen.cn
 sync.3g.qq.com
+szlong.weixin.qq.com
 t.gdt.qq.com
 t.l.qq.com
 t.sj.qq.com

@@ -259,6 +259,7 @@ jsqmt.qq.c
 jsqmt.qq.com
 jzt.jd.com
 k.ssp.qq.com
+kepler.jd.com
 knicks.jd.com
 kr59779-qq.com
 l.qq.com
@@ -329,6 +330,7 @@ mi.gdt.qq.com
 mig.str.mdt.qq.com
 mini2015.qq.com
 minisite2012.qq.com
+minorshort.weixin.qq.com
 misc.wcd.qq.com
 mmykm1.gdbs.gov.cn/api/open/r/ykmrecommend
 mon11-misc-lf.toutiaoapi.com
@@ -518,6 +520,7 @@ supportmetrics.apple.com
 sv.mnyh.fun
 swimg2.tsderen.cn
 sync.3g.qq.com
+szlong.weixin.qq.com
 t.gdt.qq.com
 t.l.qq.com
 t.sj.qq.com
